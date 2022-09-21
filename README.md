@@ -3,7 +3,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto constuído do evento Next Level Week da Rocketseat.
+Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat.
 
 [ 🔗 Clique aqui para acessar](https://jrtmcb.github.io/nlw/)
 
